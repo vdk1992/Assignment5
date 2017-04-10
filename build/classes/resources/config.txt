@@ -1,0 +1,16 @@
+Name: Ribeye Steak
+Description: 20-oz juicy steak marinated in special sauce
+Price: $29.99
+Image: steak.jpg
+Name: Fried Rice
+Description: Rice fried with vegetables 
+Price: $19.99
+Image: friedrice.jpg
+Name: Beans Porridge
+Description: Hot beans cooked in oil seasoned
+Price: $21.99
+Image: beans.jpg
+Name: Fried Yam
+Description: Normal yam fried with oil and salt
+Price: $7.99
+Image: yam.jpg
